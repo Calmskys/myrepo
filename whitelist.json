@@ -1,6 +1,10 @@
 {
   "status": "enabled",
-  "whitelist": [
-    "e1d12d6b-8128-11f0-8d0b-806e6f6e6963"
-  ]
+  "keys": {
+    "ABC123-XYZ789": {
+      "hwid": "e1d12d6b-8128-11f0-8d0b-806e6f6e6963",
+      "expires": "2025-09-29"
+    }
+  }
 }
+
